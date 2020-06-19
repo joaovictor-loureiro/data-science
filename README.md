@@ -2,4 +2,4 @@
     <img src="img/banner.jpg">
 </div>
 
- Projetos de Data Science.
+Notebooks de análises e projetos de Data Science em Python
