@@ -5,6 +5,6 @@ Notebooks de análises e projetos de Data Science em Python
 <hr>
 </br>
 <ul>
-  <li>Análise de dados do Airbnb para Vancouver:</li>
+  <li><b>Análise de dados do Airbnb para Vancouver:</b> https://bityli.com/cZUp3</li>
 </ul>
 
