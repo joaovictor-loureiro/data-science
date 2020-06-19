@@ -2,7 +2,10 @@
 </br>
 Notebooks de análises e projetos de Data Science em Python
 </br>
-## Projetos
+<b>Projetos</b>
 <hr>
 </br>
-* **Análise de dados do Airbnb para Vancouver:**
+<ul>
+  <li>Análise de dados do Airbnb para Vancouver:</li>
+</ul>
+
