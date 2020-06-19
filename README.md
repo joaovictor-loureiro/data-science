@@ -1,8 +1,7 @@
 <img src="img/banner.jpg">
-</br>
 Notebooks de análises e projetos de Data Science em Python
 </br>
-<b>Projetos</b>
+<h1><b>Projetos</b></h1>
 <hr>
 </br>
 <ul>
