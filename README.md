@@ -6,5 +6,6 @@ Notebooks de análises e projetos de Data Science em Python
 </br>
 <ul>
   <li><b>Análise de dados do Airbnb em Vancouver:</b> https://bityli.com/cZUp3</li>
+  <li><b>Análise dos dados da violência no Rio de Janeiro:</b> https://bityli.com/zOxNW</li>
 </ul>
 
