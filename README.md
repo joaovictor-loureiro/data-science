@@ -1,4 +1,4 @@
-<img src="img/banner.jpg">
+<img src="data-science/arquivos/imagens/banner.jpg">
 Notebooks de análises e projetos de Data Science em Python
 </br>
 <h1><b>Projetos</b></h1>
