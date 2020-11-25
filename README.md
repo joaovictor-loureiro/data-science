@@ -9,3 +9,11 @@ Notebooks de análises e projetos de Data Science em Python
   <li><b>Análise dos dados da violência no Rio de Janeiro:</b> https://bityli.com/zOxNW</li>
 </ul>
 
+</br>
+<h1><b>Adicionais</b></h1>
+<hr>
+</br>
+<ul>
+  <li><b>Data Science</b> </li>
+</ul>
+
