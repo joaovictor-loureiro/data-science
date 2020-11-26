@@ -14,6 +14,6 @@ Notebooks de análises e projetos de Data Science em Python
 <hr>
 </br>
 <ul>
-  <li><b><a href="data-science/arquivos/pdf">Como transformar uma tabela de um arquivo PDF em um DataFrame?</a></b> </li>
+  <li><b><a href="data-science/arquivos/pdf/Empresa-Relatório-Mensal.pdf" target="_blank">Como transformar uma tabela de um arquivo PDF em um DataFrame?</a></b> </li>
 </ul>
 
