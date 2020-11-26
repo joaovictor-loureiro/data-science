@@ -14,6 +14,6 @@ Notebooks de análises e projetos de Data Science em Python
 <hr>
 </br>
 <ul>
-  <li><b>Data Science</b> </li>
+  <li><b><a href="https://github.com/joaovictor-loureiro/data-science/blob/master/Como_transformar_uma_tabela_de_um_arquivo_pdf_em_um_dataframe.ipynb">Como transformar uma tabela de um arquivo PDF em um DataFrame?</a></b> </li>
 </ul>
 
