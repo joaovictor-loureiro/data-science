@@ -10,7 +10,7 @@ Notebooks de análises e projetos de Data Science em Python
 </ul>
 
 </br>
-<h1><b>Adicionais</b></h1>
+<h1><b>Aplicações</b></h1>
 <hr>
 </br>
 <ul>
