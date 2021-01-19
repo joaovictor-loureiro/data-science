@@ -7,7 +7,7 @@ Notebooks de análises e projetos de Data Science em Python
 </br>
 <ul>
   <li><b>Análise dos dados do Airbnb em Vancouver:</b> https://bityli.com/cZUp3</li>
-  <li><b>Análise dos dados da violência no Rio de Janeiro:</b> https://bityli.com/zOxNW</li>
+  <li><b><a href="https://github.com/joaovictor-loureiro/data-science/blob/master/Analisando_os_Dados_do_Airbnb_%28New_York_City%29%5BProjeto%5D.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
 </ul>
 </br>
 <hr>
