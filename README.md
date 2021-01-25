@@ -6,7 +6,7 @@ Notebooks de análises e projetos de Data Science em Python
 <h1><b>Projetos</b></h1>
 </br>
 <ul>
-  <li><b><a href="https://github.com/joaovictor-loureiro/data-science/blob/master/analisando-dados-do-airbnb.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
+  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/analisando-dados-do-airbnb.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
 </ul>
 </br>
 <hr>
