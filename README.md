@@ -1,6 +1,6 @@
 <img src="data-science/arquivos/imagens/banner.jpg">
 
-<i>Para uma boa visualização dos notebooks é necessário abri-los diretamente no ambiente Colab, uma vez que, o GitHub acaba alterando a formatação original dos projetos.</i>
+<i>Para uma boa visualização dos notebooks é necessário abri-los diretamente no ambiente Colab, uma vez que, o GitHub acaba alterando a formatação original de alguns projetos.</i>
 </br>
 <hr>
 
