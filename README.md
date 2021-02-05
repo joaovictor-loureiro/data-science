@@ -1,5 +1,5 @@
 <img src="data-science/arquivos/imagens/banner.jpg">
-Notebooks de análises e projetos de Data Science em Python. Para uma boa visualização dos notebooks é necessário abri-los diretamente no ambiente Colab, uma vez que, o GitHub acaba alterando a formatação original dos projetos.
+<center>Notebooks de análises e projetos de Data Science em Python.</center> Para uma boa visualização dos notebooks é necessário abri-los diretamente no ambiente Colab, uma vez que, o GitHub acaba alterando a formatação original dos projetos.
 </br>
 <hr>
 
