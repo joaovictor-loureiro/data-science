@@ -1,13 +1,14 @@
 <img src="data-science/arquivos/imagens/banner.jpg">
-Notebooks de análises e projetos de Data Science em Python
+
+<i>Para uma boa visualização dos notebooks é necessário abri-los diretamente no ambiente Colab, uma vez que, o GitHub acaba alterando a formatação original de alguns projetos.</i>
 </br>
 <hr>
 
 <h1><b>Projetos</b></h1>
 </br>
 <ul>
-  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/analisando-dados-do-airbnb.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
-  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro_%5BProjeto%5D.ipynb" target="_blank">Análise de indicadores de segurança pública | Rio de Janeiro</a></b> </li>
+  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/projeto-1_analise_dados_airbnb_new_york_city.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
+  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/projeto-2_analise_dados_seguranca_publica_rio_de_janeiro.ipynb" target="_blank">Análise de indicadores de segurança pública | Rio de Janeiro</a></b> </li>
 </ul>
 </br>
 <hr>
