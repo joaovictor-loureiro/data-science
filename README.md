@@ -9,6 +9,7 @@
 <ul>
   <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/projeto-1_analise_dados_airbnb_new_york_city.ipynb" target="_blank">Análise dos dados do Airbnb | New York City</a></b> </li>
   <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/projeto-2_analise_dados_seguranca_publica_rio_de_janeiro.ipynb" target="_blank">Análise de indicadores de segurança pública | Rio de Janeiro</a></b> </li>
+  <li><b><a href="https://colab.research.google.com/github/joaovictor-loureiro/data-science/blob/master/projeto-3_panorama_da_Covid_19_no_Brasil_e_no_mundo.ipynb" target="_blank">Panorama da Covid-19 no Brasil e no mundo</a></b> </li>
 </ul>
 </br>
 <hr>
