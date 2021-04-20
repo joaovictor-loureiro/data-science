@@ -1,5 +1,7 @@
-# Exercício 5.19 Modifique o programa para aceitar valores decimais, ou seja, também
-# contar moedas de 0,01, 0,02, 0,05, 0,10 e 0,50.
+# Exercício 5.20 - O que acontece se digitarmos 0,001 no programa anterior? Caso ele
+# não funcione, altere-o de forma a corrigir o problema.
+
+# O programa não roda, fica em loop.
 
 valor = float(input("\nDigite o valor a pagar: R$"))
 
